@@ -18,3 +18,20 @@ ul {
   height: 100px;
   width: 100px;
 }
+.contact-form {
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 265px
+}
+input {
+  float: right;
+}
+.clearfix:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
