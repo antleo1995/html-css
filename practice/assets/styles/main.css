@@ -1,0 +1,20 @@
+body {
+  background: pink;
+  font-weight: bold;
+  font-size: 16px;
+}
+ul {
+  font-size: 18px;
+}
+.title {
+  text-align: center;
+}
+.paragraph {
+ margin-left: 20px;
+ margin-top: 20px;
+ line-height: 1.5;
+}
+.food-pic {
+  height: 100px;
+  width: 100px;
+}
