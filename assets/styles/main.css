@@ -1,0 +1,38 @@
+.title{
+  color: rgb(149, 69, 53);
+  font-family: cursive;
+}
+body {
+  font-family: arial;
+  text-align: center;
+}
+.butter{
+  color: navy;
+}
+.bSugar {
+  color: blue;
+}
+.gSugar {
+  color: #ff851b;
+}
+.vanillaP {
+  color: teal;
+}
+.milk{
+  color: olive;
+}
+.eggs {
+  color: yellow;
+}
+.flour{
+  color: purple
+}
+.bSoda {
+  color: green;
+}
+.salt{
+  color: red;
+}
+.cChip{
+  color: brown;
+}
